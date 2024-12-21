@@ -22,7 +22,6 @@ This repository contains the backend of a **Social Media API** built with **Spri
 - Java 21 or above
 - Spring Boot
 - MySQL or another preferred database
-- Swagger/OpenAPI 3.0
 
 ### Steps
 
