@@ -250,7 +250,7 @@ This document provides details about the REST APIs available in the Social Media
 
 _Note: Will Add Soon_
 
-## Rate Limiting
+---
 
 
 
