@@ -15,7 +15,9 @@ This repository contains the backend of a **Social Media API** built with **Spri
 1. **API Documentation**: provided on 21 December 2024
 2. **Authentication with Spring Security**: Implementing authentication and authorization features using **Spring Security** in collaboration with the frontend will be added soon.
 
-## Installation
+## ER Diagram
+
+![ER Diagram](https://github.com/athrocks/Social-Media-API/blob/main/ER%20Diagram.png)
 
 ### Requirements
 
@@ -56,7 +58,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# Social Media API Documentation
+## Social Media API Documentation
 
 This document provides details about the REST APIs available in the Social Media application.
 
@@ -250,7 +252,6 @@ This document provides details about the REST APIs available in the Social Media
 _Note: Will Add Soon_
 
 ---
-
 
 
 
